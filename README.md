@@ -47,10 +47,3 @@ The Arduino and ESP32 communicate through UART.
 - ESP32 TX: GPIO 17
 - ESP32 IR Receiver: GPIO 27
 
-## Project Status
-
-This project is under development. Some features are implemented, while others are planned or require further integration and testing.
-
-## License
-
-A license can be added when the project is ready for public distribution.
